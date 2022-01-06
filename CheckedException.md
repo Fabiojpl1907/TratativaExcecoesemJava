@@ -16,7 +16,7 @@ Caso de Estudo : Construido a partir do Curso  DiO "Tratamento de Exceção", da
 
 Objetivo do Programa : Imprimir um arquivo no console (Input / output )
 
-Texto : foi criado um arquivo em formato texto plano -> Cem-anos-de-Solidão.txt
+Texto : foi criado um arquivo em formato texto plano -> Cem-anos-de-Solidão.txt ( ver no repositório inficado ao final do artigo )
 
 ```
 Nota: Detalhes sobre tratamento de input / output ver curso da Dio "Entrada e Saida de Arquivos em Java", com a Camila. não esta no escopo deste trabalho detalhar este tema .  
