@@ -31,7 +31,10 @@ Apresentando
 
 ## Conceito de Exceção 
 
-O que é uma exceção ? Evento que interrompe o fluxo normal do processamento de uma classe.
+Uma exceção é um evento indesejado ou inesperado, que ocorre durante a execução de um programa, ou seja, em tempo de execução, que interrompe o fluxo normal das instruções do programa. Em Java, existem dois tipos de exceções:
+
+1. Checked Exceptions
+2. Unchecked Exceptions
 
 Porque tratar as exceções : 
 
