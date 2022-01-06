@@ -17,7 +17,7 @@ Apresentando
 
 - Unchecked Exception.md - **Ok**
 
-- Checked Exception.md - A construir 
+- Checked Exception.md - **Ok**
 
 - Exception Personalizada.md  - A construir 
 
