@@ -13,13 +13,13 @@ Apresentando
 
 
 
-**Estudos de caso** : a discução e o detalhamento conceitual e do código é apresentando em 3 arquivos ( ver o  status de cada um momento , visto que o projeto esta em construção )
+**Estudos de caso** : a discução e o detalhamento conceitual e do código é apresentando em 3 arquivos 
 
-- Unchecked Exception.md - **Ok**
+- Unchecked Exception.md 
 
-- Checked Exception.md - **Ok**
+- Checked Exception.md 
 
-- Exception Personalizada.md  - A construir 
+- Exception Personalizada.md 
 
   
 
